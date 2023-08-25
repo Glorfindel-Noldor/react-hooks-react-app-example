@@ -311,3 +311,4 @@ on writing the core functionality of our app using components, like in `App.js`.
 [devtools-firefox]:
   https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
 [devtools-readme]: https://www.npmjs.com/package/react-devtools
+// testing git permission
